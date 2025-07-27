@@ -18,7 +18,7 @@ fun makeFancyString(s: String): String {
 }
 
 fun main() {
-    val input = "aab"
+    val input = "aaaaaa"
 
     println(makeFancyString(input))
 }
